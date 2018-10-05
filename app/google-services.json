@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651068358625",
+    "firebase_url": "https://pizzafoodapp.firebaseio.com",
+    "project_id": "pizzafoodapp",
+    "storage_bucket": "pizzafoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651068358625:android:c5a084767b4da910",
+        "android_client_info": {
+          "package_name": "com.example.mary.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651068358625-c865vaso0f68jph6d5ckqepilf3hj8b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPRXzOUL-beOh6lo-jfrr9nGUiovOMtQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
